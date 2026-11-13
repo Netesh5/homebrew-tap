@@ -1,6 +1,6 @@
 cask "lintel" do
-  version "0.1.3"
-  sha256 "f5265b741c0399ab9b028094270c7620549f9ed37e1a54604e0bc57151ff8e1c"
+  version "0.1.4"
+  sha256 "934eb9dc29591c18b40d85d1fe6f401ab8ebf428dd6d8acfd6971e2f9661cf24"
 
   url "https://github.com/Netesh5/lintel/releases/download/v#{version}/Lintel-#{version}.zip"
   name "Lintel"
